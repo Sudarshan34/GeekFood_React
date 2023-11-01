@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GeekFood_React/static/css/main.8f3adb6f.css",
+    "main.js": "/GeekFood_React/static/js/main.9ba1034c.js",
+    "static/media/biryani.png": "/GeekFood_React/static/media/biryani.ea3302fd5dec4ead96f9.png",
+    "static/media/p4.jpg": "/GeekFood_React/static/media/p4.c7d56a919fb0e9136f76.jpg",
+    "static/media/food1.avif": "/GeekFood_React/static/media/food1.67675d7056544db261f8.avif",
+    "static/media/p3.jpg": "/GeekFood_React/static/media/p3.fa2f20a76d6876987d8d.jpg",
+    "static/media/p6.jpg": "/GeekFood_React/static/media/p6.5405ce71516dfc118979.jpg",
+    "static/media/fb.png": "/GeekFood_React/static/media/fb.7fcca5d004b8afe26d43.png",
+    "static/media/p5.jpg": "/GeekFood_React/static/media/p5.21f62c530e8745669585.jpg",
+    "static/media/p1.jpg": "/GeekFood_React/static/media/p1.229bac53c3825fb9fe2f.jpg",
+    "static/media/p2.avif": "/GeekFood_React/static/media/p2.496231ee34dc885889c0.avif",
+    "static/media/logo.avif": "/GeekFood_React/static/media/logo.3f2c663c29a3b52b3258.avif",
+    "index.html": "/GeekFood_React/index.html",
+    "main.8f3adb6f.css.map": "/GeekFood_React/static/css/main.8f3adb6f.css.map",
+    "main.9ba1034c.js.map": "/GeekFood_React/static/js/main.9ba1034c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f3adb6f.css",
+    "static/js/main.9ba1034c.js"
+  ]
+}
