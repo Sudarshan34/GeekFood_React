@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Please find the hosted link below
+
+https://sudarshan34.github.io/GeekFood_React/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
